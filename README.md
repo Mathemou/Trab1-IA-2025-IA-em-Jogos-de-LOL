@@ -23,7 +23,7 @@ O objetivo do trabalho é realizar uma **comparação experimental** entre difer
 ├── data/
 │   └── jogosLol2021.csv     # Base de dados usada nos experimentos
 ├── requirements.txt         # Dependências do projeto
-├── Trab1_Nome_Sobrenome.ipynb   # Código-fonte em Jupyter Notebook
+├── Trab1_Matheus_Santos_de_Moura.ipynb   # Código-fonte em Jupyter Notebook
 └── README.md                # Este arquivo
 ```
 
@@ -33,20 +33,13 @@ O objetivo do trabalho é realizar uma **comparação experimental** entre difer
 
 A base de dados `jogosLol2021.csv` contém registros de partidas do jogo *League of Legends* durante a temporada de 2021. Cada instância representa uma partida, com várias características numéricas e uma variável alvo binária indicando a equipe vencedora.
 
-Você deve **descartar o identificador da partida** e realizar **pré-processamento**, incluindo:
-- Codificação de variáveis categóricas
-- Codificação da variável alvo
-- Padronização das características numéricas
-
-A tarefa específica (ex.: usar dados de pré-jogo, 10 minutos, etc.) depende do **último dígito da matrícula**.
-
 ---
 
 ## ⚙️ Execução
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/trab1-ia-2025.git
+   git clone https://github.com/Mathemou/trab1-ia-2025.git
    cd trab1-ia-2025
    ```
 
@@ -64,7 +57,7 @@ A tarefa específica (ex.: usar dados de pré-jogo, 10 minutos, etc.) depende do
 
 4. Execute o notebook:
    ```bash
-   jupyter notebook Trab1_Nome_Sobrenome.ipynb
+   jupyter notebook Trab1_Matheus_Santos_de_Moura.ipynb
    ```
 
 ---
