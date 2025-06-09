@@ -1,0 +1,1 @@
+# Trab1-IA-2025-IA-em-Jogos-de-LOL
